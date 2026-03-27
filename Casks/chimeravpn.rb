@@ -1,8 +1,8 @@
 cask "chimeravpn" do
   version "1.0.1"
-  sha256 "298c2c101bf0b863177b0cf1ae57e14763a870053acaf5d530cdb2aa7c41f6fe"
+  sha256 "7803784a1f72453096dce4fdadeed112f6d35a5f035286e6ba171a27f26f177b"
 
-  url "https://github.com/CHIMERA-SEC/chimera-vpn-netbird/releases/download/v#{version}/ChimeraVPN-#{version}.pkg"
+  url "https://github.com/CHIMERA-SEC/downloads/releases/download/v#{version}/ChimeraVPN-#{version}.pkg"
   name "ChimeraVPN"
   desc "Secure WireGuard-based VPN client"
   homepage "https://chimerasec.com"
