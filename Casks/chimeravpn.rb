@@ -1,6 +1,6 @@
 cask "chimeravpn" do
   version "1.0.1"
-  sha256 "7803784a1f72453096dce4fdadeed112f6d35a5f035286e6ba171a27f26f177b"
+  sha256 "a005bb51f09f0957cb294d720996076f65114c00c9cb5fbd2012388eaa654771"
 
   url "https://github.com/CHIMERA-SEC/downloads/releases/download/v#{version}/ChimeraVPN-#{version}.pkg"
   name "ChimeraVPN"
